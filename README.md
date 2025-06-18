@@ -79,7 +79,7 @@
 </head>
 <body class="bg-gray-900 text-gray-200">
     <div class="flex flex-col items-center justify-center p-4 min-h-screen w-full">
-        <h1 class="text-5xl font-extrabold mb-8 text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-teal-400"> Tic Tac Toe</h1>
+        <h1 class="text-5xl font-extrabold mb-8 text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-teal-400"> Tic Tac Toe </h1>
 
         <div id="gameContainer" class="flex flex-col items-center">
             <div id="gameMessage" class="text-2xl mb-6 font-semibold text-center h-8 text-gray-300">
